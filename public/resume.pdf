@@ -1,0 +1,130 @@
+%PDF-1.4
+1 0 obj
+<< /Title (Bhawana - AI & Systems Engineer Resume)
+   /Author (Bhawana)
+   /Creator (Antigravity Systems)
+   /Producer (PDF Generator)
+>>
+endobj
+2 0 obj
+<< /Type /Catalog
+   /Pages 3 0 R
+>>
+endobj
+3 0 obj
+<< /Type /Pages
+   /Kids [4 0 R]
+   /Count 1
+>>
+endobj
+4 0 obj
+<< /Type /Page
+   /Parent 3 0 R
+   /MediaBox [0 0 595 842]
+   /Resources <<
+     /Font <<
+       /F1 5 0 R
+       /F2 6 0 R
+     >>
+   >>
+   /Contents 7 0 R
+>>
+endobj
+5 0 obj
+<< /Type /Font
+   /Subtype /Type1
+   /BaseFont /Helvetica-Bold
+>>
+endobj
+6 0 obj
+<< /Type /Font
+   /Subtype /Type1
+   /BaseFont /Helvetica
+>>
+endobj
+7 0 obj
+<< /Length 1250 >>
+stream
+BT
+/F1 22 Tf
+50 800 Td
+(BHAWANA) Tj
+0 -22 Td
+/F1 11 Tf
+(AI / Deep Learning Engineer  |  GPU Acceleration \(CUDA\)  |  Systems Architect) Tj
+0 -18 Td
+/F2 10 Tf
+(Jaipur, Rajasthan, India  |  bhawana57661@gmail.com  |  LinkedIn: linkedin.com/in/bhawana-ab1891426) Tj
+0 -25 Td
+/F1 13 Tf
+(EDUCATION) Tj
+0 -15 Td
+/F1 10 Tf
+(JECRC UNIVERSITY, JAIPUR) Tj
+0 -14 Td
+/F2 10 Tf
+(Bachelor of Technology - Computer Science and Engineering \(B.Tech CSE\)) Tj
+0 -25 Td
+/F1 13 Tf
+(TECHNICAL SKILLS) Tj
+0 -15 Td
+/F2 10 Tf
+(- Deep Learning & AI: PyTorch, Transformers, LLM Fine-tuning \(LoRA, QLoRA\), vLLM, TensorRT-LLM) Tj
+0 -14 Td
+(- Hardware & GPU Computing: CUDA C/C++, Triton, Warp Primitives, SRAM Tiling, Memory Hierarchy Optimization) Tj
+0 -14 Td
+(- Systems & Web: React 18, TypeScript, Tailwind CSS, Node.js, WebSockets, REST APIs) Tj
+0 -14 Td
+(- Infrastructure & Cloud: Docker, Kubernetes, Triton Inference Server, Linux Systems Profiling, CI/CD) Tj
+0 -25 Td
+/F1 13 Tf
+(KEY PROJECTS & RESEARCH) Tj
+0 -16 Td
+/F1 11 Tf
+(1. CUDA-Accelerated FlashAttention & Memory-Tiled Kernel) Tj
+0 -13 Td
+/F2 10 Tf
+(   - Designed fused multi-head attention kernels using SRAM tiling and warp-shuffle primitives.) Tj
+0 -13 Td
+(   - Achieved 2.4x throughput increase over standard baseline PyTorch attention.) Tj
+0 -18 Td
+/F1 11 Tf
+(2. Distributed LLM Serving Engine \(vLLM & Continuous Batching\)) Tj
+0 -13 Td
+/F2 10 Tf
+(   - Architected high-concurrency model inference microservice with dynamic PagedAttention.) Tj
+0 -13 Td
+(   - Reduced time-to-first-token by 42% under high concurrent request bursts.) Tj
+0 -18 Td
+/F1 11 Tf
+(3. Autonomous Edge-to-Cloud Real-time Vision Pipeline) Tj
+0 -13 Td
+/F2 10 Tf
+(   - Integrated TensorRT INT8/FP16 models for sub-8ms video frame inference at the edge.) Tj
+0 -18 Td
+/F1 11 Tf
+(4. Neural Systems Profiler & Telemetry Dashboard) Tj
+0 -13 Td
+/F2 10 Tf
+(   - Developed real-time SM occupancy, memory bandwidth, and kernel profiling dashboard.) Tj
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000010 00000 n 
+0000000155 00000 n 
+0000000210 00000 n 
+0000000267 00000 n 
+0000000412 00000 n 
+0000000488 00000 n 
+0000000559 00000 n 
+trailer
+<< /Size 8
+   /Root 2 0 R
+   /Info 1 0 R
+>>
+startxref
+1870
+%%EOF
